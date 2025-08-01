@@ -1,0 +1,23 @@
+# ⛔ Python cache & temp files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🔐 Secrets & environment
+*.env
+secrets.py
+
+# 🧠 IDE & Editor configs
+.vscode/
+.idea/
+
+# 📦 Database
+*.db
+
+# 📜 Logs, backups
+*.log
+*.bak
+
+# 🍏 macOS & others
+.DS_Store
